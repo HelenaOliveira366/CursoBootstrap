@@ -5,3 +5,5 @@
 Tecnologias utilizadas: 
 + Bootstrap 5
 + Bootstrap icons
+
+<img src="Assets/Art.PNG" alt="Galeria de fotos de artes urbanas">
